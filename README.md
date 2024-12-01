@@ -1,6 +1,6 @@
 # Advent of Code Solutions Repository
 
-Welcome to my **Advent of Code** solutions repository! This repo contains my solutions to the [Advent of Code](https://adventofcode.com/) challenges starting from **2023** and onward. Each year, I'll be tackling these puzzles and sharing my approaches and code here.
+Welcome to my **Advent of Code** solutions repository! This repo contains my solutions to the [Advent of Code](https://adventofcode.com/) challenges starting from **2024** and onward. Each year, I'll be tackling these puzzles and sharing my approaches and code here.
 
 ## Repository Structure
 
@@ -10,7 +10,7 @@ The repository is organized by year, with a directory for each year of participa
 .
 ├── 2024/
 │   ├── Day01/
-│   │   ├── solution.py
+│   │   ├── solution.cpp
 │   │   ├── input.txt
 │   │   └── README.md
 │   ├── Day02/
@@ -18,7 +18,7 @@ The repository is organized by year, with a directory for each year of participa
 └── README.md
 ```
 
-- **`solution.py`**: The Python script containing my solution to the day's puzzle.
+- **`solution.py`**: The CPP script containing my solution to the day's puzzle.
 - **`input.txt`**: The input data for the day's challenge.
 - **`README.md`**: A brief explanation of the problem and my approach.
 
@@ -39,8 +39,8 @@ Advent of Code is an annual programming event that provides fun and challenging 
 
 ## Technologies Used
 
-- **Language**: Python (may include additional languages in the future).
-- **Tools**: Standard libraries, occasional external libraries for specific challenges.
+- **Language**: Cpp (may include additional languages in the future).
+- **Tools**: Standard libraries.
 
 ## Contributing
 
